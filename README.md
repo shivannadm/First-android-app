@@ -1,2 +1,2 @@
 # First-android-app
-Reloading....
+Reloading . . .
