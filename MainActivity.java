@@ -1,3 +1,4 @@
+
 package com.android.splash;
 
 import androidx.appcompat.app.AppCompatActivity;
