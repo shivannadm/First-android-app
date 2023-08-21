@@ -25,3 +25,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.android.lottie", appContext.getPackageName());
     }
 }
+
