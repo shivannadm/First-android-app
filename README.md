@@ -1,2 +1,3 @@
 # First-android-app
-Update will be anounced
+This is basic for testing 
+New Projects, which are related to Android Development will be Informed ASAP!
